@@ -1,7 +1,7 @@
 [project]
-name = "agentic-playground"
-version = "0.1.0"
-description = "Add your description here"
+name = "the-agentic-architect"
+version = "1.0.0"
+description = "Companion code examples for The Agentic Architect: A Practical Guide to Building Production AI Systems by Ebrahim Pooe."
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [

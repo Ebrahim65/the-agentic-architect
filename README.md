@@ -49,7 +49,7 @@ These scenarios provide progressively more demanding environments in which the a
 The repository is organized around the progression of the guide rather than around a single application.
 
 ```text
-agentic_playground/
+the-agentic-architect/
 │
 ├── module-00-engineering-environment/
 ├── module-01-python-for-ai-engineering/
@@ -117,7 +117,7 @@ Clone the repository:
 
 ```bash
 git clone <repository-url>
-cd agentic_playground
+cd the-agentic-architect
 ```
 
 If the repository uses a root `pyproject.toml`:
