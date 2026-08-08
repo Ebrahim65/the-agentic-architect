@@ -15,3 +15,7 @@ wheels/
 
 # UV
 .uv/
+
+# Misc
+snippets.py
+agent.log
